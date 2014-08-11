@@ -1,4 +1,4 @@
 KvUmbrella
 ==========
 
-** TODO: Add description **
+Elixir OTP example project
